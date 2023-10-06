@@ -19,11 +19,17 @@ What I'm up to
 My Toolbox 🧰
 
 Java
+
 Spring Framework
+
 Hibernate
+
 Git & GitHub
+
 IntelliJ IDEA
+
 MySQL
+
 Docker
 
 Let's Collaborate! 🤝
